@@ -1,0 +1,12 @@
+# Langgraph:
+langgraph
+
+# Langchain
+langchain
+langchain_groq 
+
+# Dotenv
+python-dotenv
+
+# Ipython
+Ipython
