@@ -4,6 +4,8 @@ langgraph
 # Langchain
 langchain
 langchain_groq 
+langchain-huggingface
+sentence-transformers
 
 # Dotenv
 python-dotenv
@@ -13,3 +15,6 @@ Ipython
 
 # SQLite    
 langgraph.checkpoint.sqlite
+
+# vector database
+langchain-chroma
