@@ -35,13 +35,21 @@ All code uses **LLaMA-3.3-70b-versatile** model via Groq API, Python 3.12+, and 
 3. Conditional Workflows - Dynamic routing based on logic
 
 **Production Features:**
+<br/>
 4. Persistence - SQLite checkpointing & state resumption
+<br/>
 5. Streaming - Real-time token streaming with async execution
+<br/>
 6. Chat Memory (SQLite) - Persistent conversation history
+<br/>
 7. Short-Term Memory - Thread-specific isolated sessions
+<br/>
 8. Long-Term Memory - Global cross-session user profiles
+<br/>
 9. Human-in-the-Loop - Workflow interrupts for human decisions
+<br/>
 10. Tool Binding - LLM-driven autonomous tool selection
+<br/>
 11. RAG - Retrieval-Augmented Generation with semantic search
 
 **Target Audience:** LangGraph learners, AI engineers, teams building production chatbots, multi-step AI workflows, and agent systems.
