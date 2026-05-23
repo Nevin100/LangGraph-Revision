@@ -11,3 +11,7 @@ __pycache__/
 # Jupyter checkpoints
 .ipynb_checkpoints/
 
+# Sqlite
+*.db
+*.db-shm
+*.db-wal

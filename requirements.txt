@@ -10,3 +10,6 @@ python-dotenv
 
 # Ipython
 Ipython
+
+# SQLite    
+langgraph.checkpoint.sqlite
